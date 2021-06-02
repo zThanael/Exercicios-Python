@@ -13,3 +13,6 @@
 <h3> <li> Exercicíos sobre Estrutura de Decisão </li> </h3>
     <blockquote> Para abrir o projeto  <a href='Estrutura de Decisão.ipynb'> clique aqui </a>
     </blockquote>
+<h3> <li> Exercicíos sobre Estrutura de Repetição </li> </h3>
+    <blockquote> Para abrir a 1 parte do  projeto <a href='Estrutura de Repetição - parte 1.ipynb'> clique aqui </a>
+    </blockquote>
